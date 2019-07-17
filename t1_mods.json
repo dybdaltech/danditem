@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Serrated",
+        "effect":"Gain +1 to your damage",
+        "description":"Gain a bonus to your damage rolls",
+        "type":"prefix"
+    },
+    {
+        "name":"bursting",
+        "effect":"Deal 1d4 additional damage when you roll max damage",
+        "description":"Deal more damage when you do a lot of damage",
+        "type":"prefix"
+    },
+    {
+        "name":"Honed",
+        "effect":"Reroll 1's on your damage die once",
+        "description":"Reroll your damage dice once",
+        "type":"prefix"
+    },
+    {
+        "name":"of Steadiness",
+        "effect":"Gain +1 bonus to your attack rolls",
+        "description":"Gain a bonus to your attack rolls",
+        "type":"suffix"
+    },
+    {
+        "name":"of Ire",
+        "effect":"Deal x3 weapon damage on a critical hit!",
+        "description":"Deal more damage on a critical hit",
+        "type":"suffix"
+    },
+    {
+        "name":"of piercing",
+        "effect":"Critical hit on a 19 to 20!",
+        "description":"Increased critical strike range, not auto hit!",
+        "type":"suffix"
+    }
+]

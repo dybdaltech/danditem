@@ -1,0 +1,20 @@
+[
+    {
+        "name":"",
+        "type":"simple ",
+        "range":"",
+        "properties":[],
+        "weight":"",
+        "cost":"",
+        "damage":"",
+        "reach":"no",
+        "damage_type":"",
+        "versatile":""
+    },
+    {
+        "name":"Serrated",
+        "effect":"Gain +1 to your damage",
+        "description":"Gain a bonus to your damage rolls",
+        "type":"prefix"
+    }
+]
